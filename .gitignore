@@ -1,0 +1,9 @@
+/build/
+/data/*.db
+/data/logs.txt
+/backups/
+/reports/
+/exports/
+/docs/
+*.tmp
+*.obj
